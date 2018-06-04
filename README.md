@@ -1,7 +1,7 @@
 # Prelab-01
 TEDU Class Prelabs 01
 
-Java Beginner Level 1
+Java Beginner Lesson 1
 
 
 Question 1- Learning printing, postfixes, and data usage in the println().
